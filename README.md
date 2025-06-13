@@ -200,69 +200,102 @@ footer {
     <div class="quiz-list">
       <div class="quiz-card">
         <h3>PAI</h3>
-        <a href="https://forms.gle/AcLhogAjPDiuhpD46">Bab 1</a></p>
-       <a href="https://forms.gle/">Bab  2</a></p>
-       <a href="https://forms.gle/">Bab  3</a> </p>
+        <a href="https://forms.gle/AcLhogAjPDiuhpD46">Bab 1</a>
+      </p>
+       <a href="https://forms.gle/">Bab  2</a>
+      </p>
+       <a href="https://forms.gle/">Bab  3</a>
+      </p>
       </div>
       <div class="quiz-card">
         <h3>Pendidikan Pancasila</h3>
-        <a href="https://forms.gle/uqz85HpDqgMjBb819">Bab 1</a></p>
-    <a href="https://forms.gle/">Bab 2</a></p>
-    <a href="https://forms.gle/">Bab 3</a></p>
+        <a href="https://forms.gle/uqz85HpDqgMjBb819">Bab 1</a>
+      </p>
+    <a href="https://forms.gle/">Bab 2</a>
+      </p>
+    <a href="https://forms.gle/">Bab 3</a>
+      </p>
       </div>
       <div class="quiz-card">
         <h3>Bahasa Indonesia</h3>
-        <a href="https://forms.gle/KB2XBnoNS1VtumxF7">Bab 1</a></p>
-<a href="https://forms.gle/">Bab 2</a></p>
-<a href="https://forms.gle/">Bab 3</a></p>
+        <a href="https://forms.gle/KB2XBnoNS1VtumxF7">Bab 1</a>
+      </p>
+<a href="https://forms.gle/">Bab 2</a>
+      </p>
+<a href="https://forms.gle/">Bab 3</a>
+      </p>
       </div>
       <div class="quiz-card">
         <h3>Matematika</h3>
-        <a href="https://forms.gle">Bab 1</a></p>
-<a href="https://forms.gle/">Bab 2</a></p>
-<a href="https://forms.gle/">Bab 3</a></p>
+        <a href="https://forms.gle">Bab 1</a>
+      </p>
+<a href="https://forms.gle/">Bab 2</a>
+      </p>
+<a href="https://forms.gle/">Bab 3</a>
+      </p>
       </div>
       <div class="quiz-card">
         <h3>IPA</h3>
-        <a href="https://forms.gle">Bab 1</a></p>
-<a href="https://forms.gle/">Bab 2</a></p>
-<a href="https://forms.gle/">Bab 3</a></p>
+        <a href="https://forms.gle">Bab 1</a>
+      </p>
+<a href="https://forms.gle/">Bab 2</a>
+      </p>
+<a href="https://forms.gle/">Bab 3</a>
+      </p>
       </div>
       <div class="quiz-card">
         <h3>IPS</h3>
-        <a href="https://forms.gle">Bab 1</a></p>
-<a href="https://forms.gle/">Bab 2</a></p>
-<a href="https://forms.gle/">Bab 3</a></p>
+        <a href="https://forms.gle">Bab 1</a>
+      </p>
+<a href="https://forms.gle/">Bab 2</a>
+      </p>
+<a href="https://forms.gle/">Bab 3</a>
+      </p>
       </div>
       <div class="quiz-card">
         <h3>Bahasa Inggris</h3>
-        <a href="https://forms.gle">Bab 1</a></p>
-<a href="https://forms.gle/">Bab 2</a></p>
-<a href="https://forms.gle/">Bab 3</a></p>
+        <a href="https://forms.gle">Bab 1</a>
+      </p>
+<a href="https://forms.gle/">Bab 2</a>
+      </p>
+<a href="https://forms.gle/">Bab 3</a>
+      </p>
       </div>
       <div class="quiz-card">
         <h3>PJOK</h3>
-        <a href="https://forms.gle">Bab 1</a></p>
-<a href="https://forms.gle/">Bab 2</a></p>
-<a href="https://forms.gle/">Bab 3</a></p>
+        <a href="https://forms.gle">Bab 1</a>
+      </p>
+<a href="https://forms.gle/">Bab 2</a>
+      </p>
+<a href="https://forms.gle/">Bab 3</a>
+      </p>
       </div>
       <div class="quiz-card">
         <h3>Informatika</h3>
-        <a href="https://forms.gle">Bab 1</a></p>
-<a href="https://forms.gle/">Bab 2</a></p>
-    <a href="https://forms.gle/">Bab 3</a></p>
+        <a href="https://forms.gle">Bab 1</a>
+      </p>
+<a href="https://forms.gle/">Bab 2</a>
+      </p>
+    <a href="https://forms.gle/">Bab 3</a>
+      </p>
       </div>
       <div class="quiz-card">
         <h3>Prakarya</h3>
-        <a href="https://forms.gle">Bab 1</a></p>
-<a href="https://forms.gle/">Bab 2</a></p>
-<a href="https://forms.gle/">Bab 3</a></p>
+        <a href="https://forms.gle">Bab 1</a>
+      </p>
+<a href="https://forms.gle/">Bab 2</a>
+      </p>
+<a href="https://forms.gle/">Bab 3</a>
+      </p>
       </div>
       <div class="quiz-card">
         <h3>Bahasa Sunda</h3>
-        <a href="https://forms.gle">Bab 1</a></p>
-<a href="https://forms.gle/">Bab 2</a></p>
-<a href="https://forms.gle/">Bab 3</a></p>
+        <a href="https://forms.gle">Bab 1</a>
+      </p>
+<a href="https://forms.gle/">Bab 2</a>
+      </p>
+<a href="https://forms.gle/">Bab 3</a>
+      </p>
       </div>
     </div>
   </section>
