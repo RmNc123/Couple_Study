@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="id">
+2<!DOCTYPE html><html lang="id">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -318,6 +318,4 @@ footer {
 
   <footer>
     &copy; 2025 Couple Study | Dibuat oleh Robby M & Neneng C | Rilis: 23 Juli 2025
-  </footer>
-</body>
-</html>html>ml>html>
+  
